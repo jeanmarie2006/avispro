@@ -3,6 +3,9 @@
 Plateforme inspirée de Trustpilot qui permet aux PME, artisans et commerces béninois de recueillir des avis
 clients publics et de renforcer leur crédibilité en ligne. Projet n°3 du cahier des charges « 9 projets fictifs ».
 
+**🔗 Démo en ligne :** https://mes-apps.wuaze.com/avispro/ — **📲 Installer l’application** (mobile, tablette, ordinateur) : https://mes-apps.wuaze.com/avispro/#/installer
+
+
 ![Accueil](docs/accueil.png)
 ![Page d’une entreprise](docs/entreprise.png)
 ![Tableau de bord](docs/tableau-de-bord.png)
